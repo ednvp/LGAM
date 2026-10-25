@@ -23,7 +23,7 @@ Poner en la Bitácora de Análisis (color verde) una tabla con las columnas:
 
 1. Anotarse en la Bitácora de la balanza analítica (color amarilla).
 2. Anotar el nombre de la muestra en la columna "➀"
-3. Colocar el tubo de análisis de ASE en la base y ponerlos sobre la balanza.
+3. Colocar el tubo del BET en la base y ponerlos sobre la balanza.
 4. Anotar la masa correspondiente (g) en la columna "➁"
 5. Sacar el tubo+base de la balanza analítica.
 6. Introducir el embudo de vidrio en uno de los brazos del tubo.
@@ -37,9 +37,12 @@ Poner en la Bitácora de Análisis (color verde) una tabla con las columnas:
 - Ej. Si $➁=21.0837g$ y la masa actual es de $21.1251g$, significa que por cada *"espatulazo"* se agrega $g$. Por lo tanto, si quiero llegar a una masa de $g$ debo agregar n "*espatulazos*" iguales.
 12. Sacar el tubo+base de la balanza y agregar más muestra hasta acercarse a la masa total requerida.
 13. Volver a colocar el tubo+base en la balanza. En caso de hacer falta más masa, volver a agregar cuanto haga falta.
-14. Si la masa agregada ("➁" - masa actual) es igual a la masa requerida de muestra, anotar el valor de la balanza en la columna "➂".
-15. Hacer el cálculo de la masa de la muestra agregada, restando las columnas ➂ y ➁.
-16. Meter el tubo
+14. Si la masa agregada ("➁" - masa actual) es igual a la masa requerida de muestra, anotar el valor de la balanza en la columna "➂" (en gramos).
+15. Hacer el cálculo de la masa de la muestra agregada (g), restando las columnas ➂ y ➁.
+16. Meter el tubo con muestra al desecador.
+- ⚠️ Tanto para abrirlo como para cerrarlo hay que desplazar la tapa horizontalmente para que el cambio de presión sea gradual.
+17. Colocar una etiqueta con el nombre de la muestra sobre el contenedor de muestras.
+- ⚠️ La etiqueta NUNCA va sobre los tubos, sólo sobre el recipiente o contenedor, de modo que permita identificar la muestra por la cercanía a la etiqueta.
 
 ## 🫧 Lavado del Material
 En el caso del embudo de vidrio y las espátulas:
@@ -55,20 +58,23 @@ En el caso de los **tubos para análisis de ASE**:
 
 ## 🌡️ Desgasificación de Muestras
 1. Encender temperatura (los dos switch).
-2. Separar los tubos y colocar capuchones.
-3. Colocar tubos con los capuchones y colocar en los calentadores.
+2. Seleccionar la temperatura con los botones debajo del indicador de temperatura:
+- El botón "" mueve la posición de un punto que aparece y desaparece. Este punto permite seleccionar qué dígito se modificará (unidades, decenas o centenas).
+- Con los botones "" y "" se aumenta o disminuye el valor del dígito seleccionado.
+2. Retirar las uniones de los conductos que se vayan a utilizar.
+3. Colocar cada tubo con muestra a los conductos correspondientes, de tal forma que en cada brazo del tubo BET entre un conducto "In" y un conducto "Out"
+4.
 	- Revisar que la muestra esté homogéneamente distribuida sobre el tubo.
 	- ⚠️ Colocar las etiquetas respectivamente
-4. Bajar la llave de nitrógeno.
-5. Revisar el flujo en el costado trasero en la izquierda:
+5. Bajar la llave de nitrógeno.
+6. Revisar el flujo en el costado trasero en la izquierda:
 	- Poner el dedo en la salida, esperar un poco y quitar para escuchar el flujo de aire.
-6. Esperar a que las temperaturas se estabilicen.
-7. Tomar el tiempo necesario (poner timer)
-8. Al pasar el tiempo sacar del calentador para dejar que se atempere.
-9. Desconectar del sistema (regresar la etiqueta a la base)
-10. Esperar a que la muestra se enfríe un poco.
-11. Poner en el desecador por 5 minutos (se desliza para abrir, no poner directo)
-12. Pesar el tubo con la muestra que ya se desgasificó (con la base).
+7. Esperar a que las temperaturas se estabilicen.
+8. Tomar el tiempo necesario (poner timer)
+9. Al pasar el tiempo sacar del calentador para dejar que se atempere.
+10. Desconectar del sistema (regresar la etiqueta a la base)
+11. Esperar a que la muestra se enfríe un poco.
+12. Retirar y pesar el tubo con la muestra que ya se desgasificó (con la base).
 13. Calcular la masa real de la muestra
 
 Para los **estándares** (75.9 y 9.1 $m^2 / g$) las condiciones del BET son:
