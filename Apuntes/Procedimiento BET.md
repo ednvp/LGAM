@@ -15,7 +15,7 @@ Poner en la Bitácora de Análisis (color verde) una tabla con las columnas:
 | :-----: | :-------------------: | :---------------------: | :-----------------------: | :----------------------: | :----------------------: |
 |   ➀      |          ➁             |      ➂                   |      ➃              |           ➄               |    ➅        |
 
-- <span style="font-size:70%">➀</span> Muestra
+- <span style="font-size:70%">➀</span> Nombre de la Muestra
 - <span style="font-size:70%">➁</span> $m_{\text{b+t}} ~(g)$ → Masa del tubo+base
 - <span style="font-size:70%">➂</span> $m_{\text{b+t+m}} ~(g)$ → Masa del tubo+base+muestra
 - <span style="font-size:70%">➃</span> $m_{\text{muestra}} ~(g) = ➂-➁$  → Masa de la muestra
