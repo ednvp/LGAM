@@ -29,7 +29,7 @@ En el caso del embudo de vidrio y las espátulas:
 4. En caso del embudo de vidrio, utilizar el aire comprimido para secarlo más rápido.
 
 En el caso de los **tubos para análisis de ASE**:
-- Sí requiere lavado analítico (jabón libre de sulfatos + enjuagues con agua destilada + enjuagues con agua Milli-Q).
+- Siempre requiere lavado analítico (jabón libre de sulfatos + enjuagues con agua destilada + enjuagues con agua Milli-Q).
 - Sólo en caso de que tengan sólido adherido se meterán en ácido (en los frascos con ácido para los tubos del cromatógrafo).
 
 
