@@ -10,6 +10,11 @@ Material:
 
 
 Poner en la Bitácora de Análisis (color verde) una tabla con las columnas:
+
+| Muestra | $m_{\text{b+t}} ~(g)$ | $m_{\text{b+t+m}} ~(g)$ | $m_{\text{muestra}} ~(g)$ | $m_{\text{desgas}} ~(g)$ | $m_{\text{real}}~(mg)$ |
+| :-----: | :-------------------: | :---------------------: | :-----------------------: | :----------------------: | :----------------------: |
+|   ➀      |          ➁             |      ➂                   |      ➃              |           ➄               |    ➅        |
+
 - <span style="font-size:70%">➀</span> Muestra
 - <span style="font-size:70%">➁</span> $m_{\text{b+t}} ~(g)$ → Masa del tubo+base
 - <span style="font-size:70%">➂</span> $m_{\text{b+t+m}} ~(g)$ → Masa del tubo+base+muestra
