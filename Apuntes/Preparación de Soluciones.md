@@ -1,3 +1,4 @@
+# Preparación de Soluciones
 ## ⚗️ Fase Móvil para $Ni^{2+}$
 ### Componentes:
 - $\color{red}{7 \times10^{-4}M}$ de Ácido oxálico ($\color{red}{H_2Ox}$)
