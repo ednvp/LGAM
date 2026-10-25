@@ -1,9 +1,4 @@
----
-subject: "[[Laboratorio de Geoquímica Ambiental Molecular]]"
-subtype: 🥼 Procedimientos
-date:
-ID: 2
----
+# Procedimiento BET
 ## Pesado de la muestra
 Material:
 - Espátula de metal (en caso de que se requiera, también utilizar la de plástico)
