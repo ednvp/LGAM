@@ -3,8 +3,11 @@
 Material:
 - Espátula de metal (en caso de que se requiera, también utilizar la de plástico)
 - Embudo de vidrio
-- Tubo para análisis de ASE
+- Tubo para muestra en forma de U
 - Base para el tubo
+
+<img src="https://www.bsd-sorb.com/wp-content/uploads/2024/02/7f88dbbcaa77a1d28f1e39.png">
+
 
 Poner en la Bitácora de Análisis (color verde) una tabla con las columnas:
 - <span style="font-size:70%">➀</span> Muestra
@@ -19,7 +22,11 @@ Poner en la Bitácora de Análisis (color verde) una tabla con las columnas:
 3. Colocar el tubo de análisis de ASE en la base y ponerlos sobre la balanza.
 4. Anotar la masa correspondiente (g) en la columna "➁"
 5. Sacar el tubo+base de la balanza analítica.
-6. Colocar el embudo de vidrio para 
+6. Colocar el embudo de vidrio en uno de los lados del tubo.
+7. Agregar una cantidad de muestra sobre el embudo de vidrio.
+- ⚠️ Fijarse en cuanto se agrega, para saber cuántas repeticiones de dicha medida hacen falta para llegar a la masa requerida.
+8. Mover suavemente el embudo para que caiga todo el sólido al fondo del tubo.
+- ⚠️ Evitar que quede sólido en mi
 
 ## 🫧 Lavado del Material
 En el caso del embudo de vidrio y las espátulas:
