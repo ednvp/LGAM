@@ -54,14 +54,14 @@ V_{\text{alícuota}} = \frac{(50.0~\text{mL}) \cdot (0.1~\text{M})}{(0.5~\text{M
 $$
 
 
-Volumen de la alícuota de $HNO_3~0.5M$ para preparar $50.0~mL$ de concentración $0.05M$: 
+Volumen de la alícuota de $\text{HNO}_3 \text{ 0.5M}$ para preparar $\text{50.0 mL}$ de concentración $\text{0.05M}$: 
 
 $$
 V_{\text{alícuota}} = \frac{(50.0~\text{mL}) \cdot (0.05~\text{M})}{(0.5~\text{M})} = 5~\text{mL}
 $$
 
 
-Volumen de la alícuota de $HNO_3~0.5M$ para preparar $50.0~mL$ de concentración $0.01M$: 
+Volumen de la alícuota de $\text{HNO}_3 \text{ 0.5M}$ para preparar $\text{50.0 mL}$ de concentración $\text{0.01M}$: 
 
 $$
 V_{\text{alícuota}} = \frac{(50.0~\text{mL}) \cdot (0.01~\text{M})}{(0.5~\text{M})} = 1~\text{mL}
