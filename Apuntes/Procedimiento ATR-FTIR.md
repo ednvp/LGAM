@@ -1,3 +1,4 @@
+# Procedimiento ATR-FTIR
 ## ⚗️ Materiales:
 - Piseta con alcohol isopropílico (mezcla agua-isopropanol)
 - Algodón
