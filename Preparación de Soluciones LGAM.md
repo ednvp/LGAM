@@ -1,10 +1,4 @@
----
-subject: "[[Laboratorio de Geoquímica Ambiental Molecular]]"
-subtype: 🥼 Procedimientos
-date:
-ID: 1
----
-## :LiFlaskConical: Fase Móvil para $Ni^{2+}$
+## ⚗️ Fase Móvil para $Ni^{2+}$
 ### Componentes:
 - $\color{red}{7 \times10^{-4}M}$ de Ácido oxálico ($\color{red}{H_2Ox}$)
 - $\color{green}{3.4 \times10^{-3}M}$ de Ácido nítrico ($\color{green}{HNO_3}$)
@@ -26,12 +20,12 @@ $$2.0L \times \frac{7 \times10^{-4}M~H_2Ox}{}  $$
 - Campana de extracción
 
 ### Procedimiento:
-1. Pesar la masa calculada de $H_2Ox$ sobre la nave de pesado.
+1. Pesar la masa calculada de ${H_2Ox}$ sobre la nave de pesado.
 2. Transferir al vaso de precipitados con ayuda de la piseta
 3. Enjuagar múltiples veces la nave de pesado para asegurar que se transfirió cuantitativamente (no excederse)
 4. Llenar 
 
-## Soluciones para Ajuste de $HNO_3$ 0.5, 0.1, 0.05 y 0.01 $M$:
+## 🧪 Soluciones para Ajuste de $HNO_3$ 0.5, 0.1, 0.05 y 0.01 $M$:
 ### Materiales:
 - Micropipeta de 1000-5000 μL y 2 puntas correspondientes
 - 4 matraces volumétricos de 50.0 mL
@@ -40,17 +34,38 @@ $$2.0L \times \frac{7 \times10^{-4}M~H_2Ox}{}  $$
 - Piseta con agua MilliQ
 
 ### Cálculos:
-Volumen de la alícuota de $HNO_3~70\%~m/m$ para preparar $50.0~mL$ de concentración $0.5M$: 
-$$V_{alícuota} = \frac{0.5~mol~HNO_3}{L} \cdot 0.05~L \cdot \frac{63.01~g~HNO_3}{mol~HNO_3} \cdot \frac{100~g~disolución}{70~g~HNO_3} \cdot \frac{mL~disolución}{1.413~g~disolución} =1.59~mL \approx 1.6~mL $$
+Volumen de la alícuota de $HNO_{3}$ 70 %m/m para preparar $\text{50.0 mL}$ de concentración $\text{0.5M}$: 
 
-Volumen de la alícuota de $HNO_3~0.5M$ para preparar $50.0~mL$ de concentración $0.1M$: 
-$$V_{alícuota} = \frac{(50.0~mL) \cdot (0.1M)}{(0.5M)} = 10~mL  $$
+$$
+V_{\text{alícuota}} =
+\frac{0.5~\text{mol HNO}_3}{\text{L}}
+\cdot 0.05~\text{L}
+\cdot \frac{63.01~\text{g HNO}_3}{\text{mol HNO}_3}
+\cdot \frac{100~\text{g disolución}}{70~\text{g HNO}_3}
+\cdot \frac{\text{mL disolución}}{1.413~\text{g disolución}}
+= 1.59~\text{mL} \approx 1.6~\text{mL}
+$$
+
+
+Volumen de la alícuota de $\text{HNO}_3 \text{ 0.5M}$ para preparar $\text{50.0 mL}$ de concentración $\text{0.1M}$: 
+
+$$
+V_{\text{alícuota}} = \frac{(50.0~\text{mL}) \cdot (0.1~\text{M})}{(0.5~\text{M})} = 10~\text{mL}
+$$
+
 
 Volumen de la alícuota de $HNO_3~0.5M$ para preparar $50.0~mL$ de concentración $0.05M$: 
-$$V_{alícuota} = \frac{(50.0~mL) \cdot (0.05M)}{(0.5M)} = 5~mL  $$
+
+$$
+V_{\text{alícuota}} = \frac{(50.0~\text{mL}) \cdot (0.05~\text{M})}{(0.5~\text{M})} = 5~\text{mL}
+$$
+
 
 Volumen de la alícuota de $HNO_3~0.5M$ para preparar $50.0~mL$ de concentración $0.01M$: 
-$$V_{alícuota} = \frac{(50.0~mL) \cdot (0.01M)}{(0.5M)} = 1~mL  $$
+
+$$
+V_{\text{alícuota}} = \frac{(50.0~\text{mL}) \cdot (0.01~\text{M})}{(0.5~\text{M})} = 1~\text{mL}
+$$
 
 ### Procedimiento:
 1. Verter aproximadamente 15 mL de agua MilliQ sobre un vaso de precipitados de 30 mL (cama de agua para el ácido).
