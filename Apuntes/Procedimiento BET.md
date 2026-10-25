@@ -11,7 +11,7 @@ Poner en la Bitácora de Análisis (color verde) una tabla con las columnas:
 - <span style="font-size:70%">➁</span> $m_{\text{base + tubo}}$
 - <span style="font-size:70%">➂</span> $m_{\text{base + tubo + muestra}}$
 - <span style="font-size:70%">➃</span> $m_{\text{muestra}} = ➂-➁$
-- <span style="font-size:70%">➄</span> $m_{\text{base + tubo + desgasificado}}$ → Masa después de meter al BET
+- <span style="font-size:70%">➄</span> $m_{\text{base + tubo + desgasificado}}$ → Masa después de meter al desgasificador
 - <span style="font-size:70%">➅</span> $m_{\text{real}} = ➄-➀$
 
 1. Anotarse en la Bitácora de la balanza analítica (color amarilla).
