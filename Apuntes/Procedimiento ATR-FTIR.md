@@ -60,7 +60,10 @@ Se realiza sólo en muestras óseas (huesos, molares, etc).
 3. Seleccionar las áreas de los picos (correspondientes a amidas y fosfatos) como se muestra en la imagen:
 	- Para el ajuste de la flecha izquierda: la línea base de integración debe quedar sobre la línea roja del espectro.
 	- Para el ajuste de la flecha derecha: debe quedar en el punto más bajo del valle entre los dos picos.
+
+<div align="center">
 <img src="https://github.com/ednvp/LGAM_Apuntes/blob/1ec8547eac3427b16fd1ea2b32bdfdf232a2ef4c/Imagenes/Porcentaje%20de%20Col%C3%A1geno.png" alt="Porcentaje de colágeno" width="500">
+</div>
 
 4. Anotar el valor que aparece como "Collagen%" y redondear a 2 cifras después del punto decimal
 5. ⚠️ No volver a guardar porque se sobrescribe.
