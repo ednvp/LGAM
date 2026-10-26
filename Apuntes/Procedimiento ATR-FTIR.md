@@ -70,11 +70,11 @@ Se realiza sólo en muestras óseas (huesos, molares, etc).
 	- Hacer click en la cruz gris para cerrar el espectro.
 	- Seleccionar `No` para no guardar el archivo.
 
-## Crear ventanas adicionales
+## 🪟 Crear ventanas adicionales
 1. Ir a la pestaña `Window` > `New Window` (también se puede usar el atajo Ctrl+N)
 2. Ponerle un nombre a la nueva ventana
 
-## Exportar las imágenes de los espectros
+## 💾 Exportar las imágenes de los espectros
 1. Colocar en una misma ventana todos los espectros correspondientes al SIA
 2. Revisar que se encuentran todos las muestras (corroborar con la lista de las hojas)
 3. Llamar a Ulises para ver si todos están bien o si hay que agregar alguna observación
