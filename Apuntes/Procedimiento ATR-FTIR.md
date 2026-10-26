@@ -24,16 +24,16 @@
 
 ## 🧪 Leer muestras
 1. Limpiar con un algodón y alcohol isopropílico:
-	- La platina del instrumento.
-	- La punta del tornillo.
-	- La espátula de plástico
+	- La base donde se coloca la muestra (el cristal, el círculo adyacente y el reso  de la base).
+	- La punta del tornillo que toca la muestra.
+	- La espátula de plástico.
 2. Seleccionar el botón de `Collect Sample`.
 3. Colocar el nombre de la muestra.
 	- ℹ️ Conviene seleccionar y copiar el nombre porque después se vuelve a necesitar para guardar los archivos.
 4. Seleccionar `Ok` para leer la señal de fondo (background) y esperar a que se complete la barra que aparece en la pantalla.
 5. Colocar la muestra sobre la superficie del cristal.
-6. Bajar la prensa y ajustar el tornillo de atrás.
-7. Ajustar el tornillo de la muestra hasta el 1er tope, regresar hacia arriba y meter más muestra hacia el cristal (repetir para compactar bien la muestra).
+6. Bajar el brazo de la prensa y ajustar el tornillo de soporte de la parte de atrás.
+7. Ajustar el tornillo de la prensa hasta el 1er tope, regresar hacia arriba y meter más muestra hacia el cristal (repetir para compactar bien la muestra).
 8. Seleccionar `Ok` para leer la muestra.
 	- ⚠️ Verificar que no aparezca la banda correspondiente al $CO_2$, la cual se encuentra a $2400-2300~nm^{-1}$.
 	- Para eliminar algún espectro, seleccionarlo y hacer click en la opción `Clear`.
