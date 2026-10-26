@@ -4,6 +4,7 @@
 - Algodón
 - Cuadros de papel encerado
 - Cuchara verde de plástico
+- Bitácora del Espectrofotómetro IR
 
 ## 🔌 Encendido del equipo
 1. Encender ambos reguladores (computadora y equipo de IR).
@@ -56,7 +57,9 @@ Se realiza sólo en muestras óseas (huesos, molares, etc).
 Se realiza sólo en muestras óseas (huesos, molares, etc).
 1. Abrir el archivo .spectra, de tal forma que sólo haya un espectro al mismo tiempo.
 2. Seleccionar el botón a la derecha de la pantalla que dice `MACRO Collagen%` > `Replace`.
-3. Seleccionar las áreas de los picos (correspondientes a amidas y fosfatos) como se muestra en la imagen:![[Porcentaje de Colágeno.png|536]]
+3. Seleccionar las áreas de los picos (correspondientes a amidas y fosfatos) como se muestra en la imagen:
+<img src="Imagenes/Porcentaje de Colágeno.png" alt="Porcentaje de colágeno" width="500">
+![Porcentaje de colágeno](Imagenes/Porcentaje de Colágeno.png)
 	- Para el ajuste de la flecha izquierda: la línea base de integración debe quedar sobre la línea roja del espectro.
 	- Para el ajuste de la flecha derecha: debe quedar en el punto más bajo del valle entre los dos picos.
 4. Anotar el valor que aparece como "Collagen%" y redondear a 2 cifras después del punto decimal
