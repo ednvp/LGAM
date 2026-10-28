@@ -13,8 +13,11 @@ $$
 
 
 $$
-2.0~L \times \frac{3.4 \times10^{-3}\text{ mol HNO}_3}{L} \times \frac{90.03\text{ g H}_2Ox}{\text{mol H}_2Ox} \times \frac{100~g}{99.0~g}=0.1273 \text{ g H}_2Ox  
+2.0~L \times \frac{3.4 \times10^{-3}\text{ mol HNO}_3}{L} \times \frac{63.01\text{ g HNO}_3}{\text{mol HNO}_3} \times \frac{100 \text{ g dis}}{70 \text{ g HNO}_3} \times \frac{mL\text{ dis}}{1.413 \text{ g dis}} = 0.433 \text{ mL HNO}_3  
 $$
+
+>[!NOTE]
+>Conviene agregar 0.435 μL de $HNO_3$ porque con el tiempo ha perdido su concentración real.
 
 ### Material:
 - Vaso de precipitados de 100 mL (para 2L)
@@ -25,15 +28,31 @@ $$
 - Piseta con agua Milli-Q del día
 - Agua Milli-Q del día
 
-### Instrumentos y equipos:
-- Balanza analítica
-- Campana de extracción
+## ⚗️ Fase Móvil para $Pb^{2+}Zn^{2+}$
+- $\color{red}{1.5 \text{ mmol/L}}$ de Ácido oxálico ($\color{red}{H_2Ox}$)
+- $\color{green}{3.4 \text{ mmol/L}}$ de Ácido nítrico ($\color{green}{HNO_3}$)
 
-### Procedimiento:
-1. Pesar la masa calculada de ${H_2Ox}$ sobre la nave de pesado.
-2. Transferir al vaso de precipitados con ayuda de la piseta
-3. Enjuagar múltiples veces la nave de pesado para asegurar que se transfirió cuantitativamente (no excederse)
-4. Llenar 
+
+$$
+2.0~L \times \frac{1.5 \times10^{-3}\text{ mol H}_2Ox}{L} \times \frac{90.03\text{ g H}_2Ox}{\text{mol H}_2Ox} \times \frac{100~g}{99.0~g}=0.2728 \text{ g H}_2Ox  
+$$
+
+
+$$
+2.0~L \times \frac{3.4 \times10^{-3}\text{ mol HNO}_3}{L} \times \frac{63.01\text{ g HNO}_3}{\text{mol HNO}_3} \times \frac{100 \text{ g dis}}{70 \text{ g HNO}_3} \times \frac{mL\text{ dis}}{1.413 \text{ g dis}} = 0.433 \text{ mL HNO}_3  
+$$
+
+>[!NOTE]
+>Conviene agregar 0.435 μL de $HNO_3$ porque con el tiempo ha perdido su concentración real.
+
+### Material:
+- Vaso de precipitados de 100 mL (para 2L)
+- Matraz aforado del volumen a preparar (2L)
+- Espátula de cobre-níquel
+- Micropipeta de 100-1000 μL y una punta azul ==revisar==
+- Nave de pesado
+- Piseta con agua Milli-Q del día
+- Agua Milli-Q del día
 
 ## 🧪 Soluciones para Ajuste de $HNO_3$ 0.5, 0.1, 0.05 y 0.01 $M$:
 ### Materiales:
