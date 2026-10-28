@@ -7,12 +7,13 @@
 - Bitácora del Espectrofotómetro IR
 
 ## 🔌 Encendido del equipo
-1. Encender ambos reguladores (computadora y equipo de IR).
-2. Abrir el paso del nitrógeno
-	- ⚠️ No se puede medir hasta que el indicador del desecante (humedad) esté de color azul en lugar de rosado.
-3. En la computadora seleccionar el programa OMNIC.
-4. Seleccionar método/experimento → GladiATR.
-5. Ir a la pestaña `Collect > Experiment Setup` para ajustar:
+1. Retirar el cubrepolvo del equipo.
+2. Encender el regulador que está detrás del equipo.
+3. Abrir el paso del nitrógeno
+	- ⚠️ No se puede medir hasta que el indicador del humedad esté de color azul en lugar de rosado.
+4. En la computadora seleccionar el programa OMNIC.
+5. Seleccionar método/experimento → GladiATR (segunda opción).
+6. Ir a la pestaña `Collect` > `Experiment Setup` para ajustar:
 	- Número de Scans (32 ó 100).
 	- Formato de lectura (Transmitancia o Absorbancia).
 
@@ -24,7 +25,7 @@
 
 ## 🧪 Leer muestras
 1. Limpiar con un algodón y alcohol isopropílico:
-	- La base donde se coloca la muestra (el cristal, el círculo adyacente y el reso  de la base).
+	- La base donde se coloca la muestra (el cristal, el círculo adyacente y el resto  de la base).
 	- La punta del tornillo que toca la muestra.
 	- La espátula de plástico.
 2. Seleccionar el botón de `Collect Sample`.
@@ -37,27 +38,22 @@
 8. Seleccionar `Ok` para leer la muestra.
 	- ⚠️ Verificar que no aparezca la banda correspondiente al $CO_2$, la cual se encuentra a $2400-2300~nm^{-1}$.
 	- Para eliminar algún espectro, seleccionarlo y hacer click en la opción `Clear`.
-9. Guardar con `F12` en formato .spectra en la carpeta correspondiente a la solicitud de análisis.
+9. Guardar con `F12` en formato .spa (spectra) en la carpeta correspondiente a la solicitud de análisis.
 10. Guardar con `F12` en formato .csv en la carpeta correspondiente a la solicitud de análisis.
+11. Anotarse en la Bitácora del espectrofotómetro IR, indicando el número de muestras leídas y el número total de análisis realizados (aproximado).
 
 >[!IMPORTANT]
 >En caso de requerir repetir la muestra no hace falta limpiar la espátula y la punta del tornillo, solamente la base donde se encuentra el cristal.
 
-## 📊 Cálculo de IRSF
-Se realiza sólo en muestras óseas (huesos, molares, etc).
-1. Abrir el archivo .spectra, de tal forma que sólo haya un espectro al mismo tiempo.
-2. Seleccionar el botón MACRO Splitting Factor
-3. Anotar el valor que aparece como "SF" y redondear a 2 cifras después del punto decimal.
-4. Hacer click en `Full Sc` (Full scale) para ver el espectro completo
-5. ⚠️ No volver a guardar porque se sobrescribe.
-	- Hacer click en la cruz gris para cerrar el espectro.
-	- Seleccionar `No` para no guardar el archivo.
-
-## 📈 Cálculo de Porcentaje de Colágeno
-Se realiza sólo en muestras óseas (huesos, molares, etc).
-1. Abrir el archivo .spectra, de tal forma que sólo haya un espectro al mismo tiempo.
-2. Seleccionar el botón a la derecha de la pantalla que dice `MACRO Collagen%` > `Replace`.
-3. Seleccionar las áreas de los picos (correspondientes a amidas y fosfatos) como se muestra en la imagen:
+## 📊 Cálculo de IRSF y %Colágeno
+Se realiza sólo en muestras óseas (huesos, molares, esmaltes, etc).
+1. Abrir el archivo .spa, de tal forma que sólo haya un espectro en la pantalla.
+2. Seleccionar el botón `MACRO Splitting Factor` arriba a la derecha.
+3. Hacer click en `Full Sc` (Full scale) para ver el espectro completo.
+4. Anotar el valor que aparece como **"SF"** y redondear a 2 cifras después del punto decimal.
+5. Seleccionar el botón a la derecha de la pantalla que dice `MACRO Collagen%`
+6. Clickear el botón `Replace` que aparece debajo.
+7. Seleccionar las áreas de los picos (correspondientes a amidas y fosfatos) como se muestra en la imagen:
 	- Para el ajuste de la flecha izquierda: la línea base de integración debe quedar sobre la línea roja del espectro.
 	- Para el ajuste de la flecha derecha: debe quedar en el punto más bajo del valle entre los dos picos.
 
@@ -65,8 +61,8 @@ Se realiza sólo en muestras óseas (huesos, molares, etc).
 <img src="https://github.com/ednvp/LGAM_Apuntes/blob/1ec8547eac3427b16fd1ea2b32bdfdf232a2ef4c/Imagenes/Porcentaje%20de%20Col%C3%A1geno.png" alt="Porcentaje de colágeno" width="500">
 </div>
 
-4. Anotar el valor que aparece como "Collagen%" y redondear a 2 cifras después del punto decimal
-5. ⚠️ No volver a guardar porque se sobrescribe.
+8. Anotar el valor que aparece como **"Collagen%"** y redondear a 2 cifras después del punto decimal
+9. ⚠️ No volver a guardar porque se sobrescribe.
 	- Hacer click en la cruz gris para cerrar el espectro.
 	- Seleccionar `No` para no guardar el archivo.
 
