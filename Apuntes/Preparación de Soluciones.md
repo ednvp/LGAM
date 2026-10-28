@@ -5,16 +5,25 @@
 - $\color{green}{3.4 \times10^{-3}M}$ de Ácido nítrico ($\color{green}{HNO_3}$)
 
 ### Cálculos (con datos obtenidos de la etiqueta de los reactivos):
-$$2.0L \times \frac{7 \times10^{-4}M~H_2Ox}{}  $$
+
+
+$$
+2.0~L \times \frac{7 \times10^{-4}\text{ mol H}_2Ox}{L} \times \frac{90.03\text{ g H}_2Ox}{\text{mol H}_2Ox} \times \frac{100~g}{99.0~g}=0.1273 \text{ g H}_2Ox  
+$$
+
+
+$$
+2.0~L \times \frac{3.4 \times10^{-3}\text{ mol HNO}_3}{L} \times \frac{90.03\text{ g H}_2Ox}{\text{mol H}_2Ox} \times \frac{100~g}{99.0~g}=0.1273 \text{ g H}_2Ox  
+$$
 
 ### Material:
 - Vaso de precipitados de 100 mL (para 2L)
 - Matraz aforado del volumen a preparar (2L)
-- Espátula de cobre níquel
-- Micropipeta de 50-200 μL con 1 punta amarilla
+- Espátula de cobre-níquel
+- Micropipeta de 100-1000 μL y una punta azul ==revisar==
 - Nave de pesado
-- Piseta con agua MilliQ del día
-- Agua MilliQ del día
+- Piseta con agua Milli-Q del día
+- Agua Milli-Q del día
 
 ### Instrumentos y equipos:
 - Balanza analítica
